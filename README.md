@@ -135,6 +135,5 @@ Fetches a specific product by id.
 Description: Delete a product by its ID.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to modify the configuration to suit your Elasticsearch cluster and project requirements. This demo application is designed to help you understand how Elasticsearch can be integrated with a C# Web API and can be extended to support more complex use cases and workflows.
